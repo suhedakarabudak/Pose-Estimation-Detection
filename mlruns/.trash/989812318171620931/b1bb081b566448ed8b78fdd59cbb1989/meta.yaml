@@ -1,0 +1,16 @@
+artifact_uri: file:///home/suhedata/Desktop/PoseEstimationProject/mlruns/989812318171620931/b1bb081b566448ed8b78fdd59cbb1989/artifacts
+deleted_time: 1710242408736
+end_time: 1710240857406
+entry_point_name: ''
+experiment_id: '989812318171620931'
+lifecycle_stage: deleted
+run_id: b1bb081b566448ed8b78fdd59cbb1989
+run_name: rumbling-skunk-601
+run_uuid: b1bb081b566448ed8b78fdd59cbb1989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710240857358
+status: 3
+tags: []
+user_id: suhedata

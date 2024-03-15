@@ -1,0 +1,15 @@
+artifact_uri: file:///home/suhedata/Desktop/PoseEstimationProject/mlruns/0/3f0de47ae9d64f9fa70a03cfcf1563ef/artifacts
+end_time: 1710451037153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f0de47ae9d64f9fa70a03cfcf1563ef
+run_name: skillful-wolf-28
+run_uuid: 3f0de47ae9d64f9fa70a03cfcf1563ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710451032156
+status: 3
+tags: []
+user_id: suhedata

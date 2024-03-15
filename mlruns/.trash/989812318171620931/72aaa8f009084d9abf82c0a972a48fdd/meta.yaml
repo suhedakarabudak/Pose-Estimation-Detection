@@ -1,0 +1,16 @@
+artifact_uri: file:///home/suhedata/Desktop/PoseEstimationProject/mlruns/989812318171620931/72aaa8f009084d9abf82c0a972a48fdd/artifacts
+deleted_time: 1710242408736
+end_time: 1710240750345
+entry_point_name: ''
+experiment_id: '989812318171620931'
+lifecycle_stage: deleted
+run_id: 72aaa8f009084d9abf82c0a972a48fdd
+run_name: polite-dog-581
+run_uuid: 72aaa8f009084d9abf82c0a972a48fdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710240750280
+status: 3
+tags: []
+user_id: suhedata

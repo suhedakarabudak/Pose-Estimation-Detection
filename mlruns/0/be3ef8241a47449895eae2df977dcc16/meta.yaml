@@ -1,0 +1,15 @@
+artifact_uri: file:///home/suhedata/Desktop/PoseEstimationProject/mlruns/0/be3ef8241a47449895eae2df977dcc16/artifacts
+end_time: 1710242359080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be3ef8241a47449895eae2df977dcc16
+run_name: silent-perch-961
+run_uuid: be3ef8241a47449895eae2df977dcc16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710242356332
+status: 3
+tags: []
+user_id: suhedata
